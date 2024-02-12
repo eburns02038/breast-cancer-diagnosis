@@ -35,6 +35,7 @@ Overview of models used
 - Support Vector Classifier
 - Random Forest Classifier
 - Gradient Boosted Classifier
+
 Data Processing and Feature Engineering
 - Once I had chosen a set of features to start with, I looked at the correlations between them and determined which features were highly correlated with each other and out of those which ones to keep for building the model and which to drop (for example: the measurements for radius, perimeter, and area are almost 100% correlated with each other because they are dependent measurements, so we really only need to keep one of them for the model) 
 - After determining a “short list” of 6 features for building the model, I built an initial model that used all of them and then I tuned the hyperparameters of the model to determine which combination would work best for this list of features
