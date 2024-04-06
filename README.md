@@ -85,6 +85,10 @@ Comparing the various evaluation metrics that we looked at, both the Gradient Bo
 # Future Goals
 - Make versions of the model that use the worst measurements instead of the mean measurements, and see how the importance of the features varies in those models compared to the best model using the mean measurements. 
 - Potentially examine model performance on different kinds of cancers, depending on morphological similarities or differences between the cancers and resulting tumors, and determine which other kinds of cancers this model can be applicable to
+- Expand on current model to see if I can improve scores:;
+- - XG Boost compared to gradient boosted classifier
+  - Light GBM model type
+  - analyze exactly how much each feature contributes to the final model (how much is each measurement driving predictive power? Try Shapley Analysis)
 
 
 https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/breast-cancer-facts-and-figures/breast-cancer-facts-and-figures-2019-2020.pdf
