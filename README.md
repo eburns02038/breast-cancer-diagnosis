@@ -1,3 +1,5 @@
+See presentation slides for visuals to accompany README
+
 # Overview
 - According to the National Institute of Health, breast cancer is the most commonly diagnosed cancer among women in the US, and each year 30% of all newly diagnosed cancers are breast cancer. 
 - Current methods of diagnosing tumors as malignant or benign predominantly use ultrasound or mammogram imaging to examine texture and measurements of other morphological features to analyze tumors, but the proportion of how much each measurement contributes to the diagnosis varies from doctor to doctor. Additionally, visual examination of images has limited objectivity, and this leads to less accurate diagnoses. 
